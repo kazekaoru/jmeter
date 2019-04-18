@@ -1,2 +1,2 @@
 # jmeter
-distributed testing in jmter by docker
+Connecting to MongoDB and test an API of a application
